@@ -1,0 +1,6 @@
+.blog {
+    display: inline-block;
+    border: 1px black solid;
+    border-style: solid;
+    margin-left: 20px;
+}
